@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "id": "portalgunclassic",
+  "version": "${version}",
+  "name": "Portal Gun Remastered",
+  "description": "Portal Gun Remastered: a remake of the first Portal Gun mod (2011). Keybinds are configurable in Controls; no mixins, so it plays nicely with Sodium, Lithium, Iris and other mods.",
+  "authors": [
+    "iChun"
+  ],
+  "contributors": [
+    "Fabric port contributors"
+  ],
+  "contact": {
+    "homepage": "http://ichun.me/mods/portalgun/"
+  },
+  "license": "LGPL-3.0-or-later",
+  "icon": "assets/portalgunclassic/textures/item/portal_gun_blue.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "me.ichun.mods.portalgunclassic.PortalGunMod"
+    ],
+    "client": [
+      "me.ichun.mods.portalgunclassic.PortalGunClient"
+    ],
+    "modmenu": [
+      "me.ichun.mods.portalgunclassic.client.PortalGunModMenu"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.3",
+    "minecraft": "~26.2",
+    "java": ">=25",
+    "fabric-api": "*"
+  },
+  "custom": {
+    "credits": "Valve, for Portal and Portal 2, which inspired the concept."
+  },
+  "suggests": {
+    "modmenu": "*"
+  }
+}

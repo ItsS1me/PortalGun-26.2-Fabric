@@ -1,0 +1,78 @@
+{
+  "variants": {
+    "color=blue,facing=north,half=lower": {
+      "model": "portalgunclassic:block/portal_blue_lower"
+    },
+    "color=blue,facing=east,half=lower": {
+      "model": "portalgunclassic:block/portal_blue_lower",
+      "y": 90
+    },
+    "color=blue,facing=south,half=lower": {
+      "model": "portalgunclassic:block/portal_blue_lower",
+      "y": 180
+    },
+    "color=blue,facing=west,half=lower": {
+      "model": "portalgunclassic:block/portal_blue_lower",
+      "y": 270
+    },
+    "color=blue,facing=north,half=upper": {
+      "model": "portalgunclassic:block/portal_blue_upper"
+    },
+    "color=blue,facing=east,half=upper": {
+      "model": "portalgunclassic:block/portal_blue_upper",
+      "y": 90
+    },
+    "color=blue,facing=south,half=upper": {
+      "model": "portalgunclassic:block/portal_blue_upper",
+      "y": 180
+    },
+    "color=blue,facing=west,half=upper": {
+      "model": "portalgunclassic:block/portal_blue_upper",
+      "y": 270
+    },
+    "color=blue,facing=up,half=lower": {
+      "model": "portalgunclassic:block/portal_blue_floor"
+    },
+    "color=blue,facing=down,half=lower": {
+      "model": "portalgunclassic:block/portal_blue_floor",
+      "x": 180
+    },
+    "color=orange,facing=north,half=lower": {
+      "model": "portalgunclassic:block/portal_orange_lower"
+    },
+    "color=orange,facing=east,half=lower": {
+      "model": "portalgunclassic:block/portal_orange_lower",
+      "y": 90
+    },
+    "color=orange,facing=south,half=lower": {
+      "model": "portalgunclassic:block/portal_orange_lower",
+      "y": 180
+    },
+    "color=orange,facing=west,half=lower": {
+      "model": "portalgunclassic:block/portal_orange_lower",
+      "y": 270
+    },
+    "color=orange,facing=north,half=upper": {
+      "model": "portalgunclassic:block/portal_orange_upper"
+    },
+    "color=orange,facing=east,half=upper": {
+      "model": "portalgunclassic:block/portal_orange_upper",
+      "y": 90
+    },
+    "color=orange,facing=south,half=upper": {
+      "model": "portalgunclassic:block/portal_orange_upper",
+      "y": 180
+    },
+    "color=orange,facing=west,half=upper": {
+      "model": "portalgunclassic:block/portal_orange_upper",
+      "y": 270
+    },
+    "color=orange,facing=up,half=lower": {
+      "model": "portalgunclassic:block/portal_orange_floor"
+    },
+    "color=orange,facing=down,half=lower": {
+      "model": "portalgunclassic:block/portal_orange_floor",
+      "x": 180
+    }
+  }
+}

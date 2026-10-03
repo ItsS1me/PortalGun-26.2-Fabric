@@ -1,0 +1,23 @@
+{
+  "item.portalgunclassic.portal_gun": "Portal Gun",
+  "item.portalgunclassic.portal_core": "Portal Core",
+  "block.portalgunclassic.portal": "Portal",
+  "subtitles.portalgunclassic.enter": "Portal entered",
+  "subtitles.portalgunclassic.exit": "Portal exited",
+  "subtitles.portalgunclassic.fizzle": "Portal fizzles",
+  "subtitles.portalgunclassic.invalid": "Portal gun fails",
+  "subtitles.portalgunclassic.open": "Portal opens",
+  "subtitles.portalgunclassic.fire": "Portal gun fires",
+  "subtitles.portalgunclassic.active": "Portal gun switches",
+  "key.category.portalgunclassic.portal_gun": "Portal Gun Remastered",
+  "key.portalgunclassic.switch_color": "Switch Portal Color",
+  "key.portalgunclassic.fire_blue": "Fire Blue Portal",
+  "key.portalgunclassic.fire_orange": "Fire Orange Portal",
+  "key.portalgunclassic.clear_portals": "Clear Portals",
+  "portalgunclassic.config.title": "Portal Gun Remastered Settings",
+  "portalgunclassic.config.range": "Range: %s blocks",
+  "portalgunclassic.config.cooldown": "Teleport Cooldown: %s ticks",
+  "portalgunclassic.config.volume": "Sound Volume: %s%%",
+  "portalgunclassic.config.crossDimension": "Cross-Dimension Portals",
+  "portalgunclassic.config.teleportOtherEntities": "Teleport Mobs and Items"
+}

@@ -1,0 +1,11 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "portalgunclassic:portal_color",
+    "cases": [
+      { "when": "orange", "model": { "type": "minecraft:model", "model": "portalgunclassic:item/portal_gun_orange" } }
+    ],
+    "fallback": { "type": "minecraft:model", "model": "portalgunclassic:item/portal_gun_blue" }
+  }
+}
