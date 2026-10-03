@@ -15,7 +15,5 @@ Debug: launch with -Dportalgun.debug=true to log every teleport.
 
 Compatibility: no mixins, only public Fabric API, so no conflicts with Sodium, Lithium, Iris, etc.
 
-Build: gradle wrapper --gradle-version latest, then ./gradlew build. Jar is in build/libs.
 Licensed LGPL-3.0-or-later. Original mod by iChun.
 Sounds are original and synthesized by tools/generate_sounds.py (needs python3, numpy, scipy, ffmpeg); rerun it to regenerate them.
-Textures are inherited from the original PortalGunClassic and may still resemble Valve's artwork; replace them before publishing.
