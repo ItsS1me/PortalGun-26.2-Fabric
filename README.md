@@ -2,11 +2,8 @@
 
 Mod id stays `portalgunclassic` so existing worlds keep their portal guns and blocks.
 
-Craft: Portal Core = lapis + redstone. Portal Gun = obsidian, iron, diamond, portal core.
-
 Controls
 - Right-click: fire the current portal color
-- Shift + right-click: switch blue/orange
 - Keybinds (Options > Controls > Portal Gun Remastered, hold the gun): Switch Portal Color (R), Fire Blue, Fire Orange, Clear Portals (last three unbound by default)
 
 Walk into either portal and you come out of the other one. Players are detected every tick; other entities by the portal blocks.
