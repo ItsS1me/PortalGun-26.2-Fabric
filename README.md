@@ -4,7 +4,7 @@ Mod id stays `portalgunclassic` so existing worlds keep their portal guns and bl
 
 Controls
 - Right-click: fire the current portal color
-- Keybinds (Options > Controls > Portal Gun Remastered, hold the gun): Switch Portal Color (R), Fire Blue, Fire Orange, Clear Portals (last three unbound by default)
+- Keybinds (Options > Controls > Portal Gun Remastered): Switch Portal Color (R), Fire Blue, Fire Orange, Clear Portals (last three unbound by default)
 
 Walk into either portal and you come out of the other one. Players are detected every tick; other entities by the portal blocks.
 Config: Mod Menu settings screen, or edit config/portalgunremastered.json (range, cooldownTicks, soundVolume, crossDimension, teleportOtherEntities). Mod Menu is optional.
